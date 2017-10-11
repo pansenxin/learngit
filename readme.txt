@@ -1,2 +1,2 @@
-git is good
-git hello world
+git is good update
+git hello world update
